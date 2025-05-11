@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecursosUDB</string>
+    <string name="welcome_message">¡Bienvenido a AprendeApp!</string>
+
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+
+    <string name="go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="register_title">Registro</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="register_button">Registrarse</string>
+    <string name="go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <string name="main_menu_title">Menú Principal</string>
+    <string name="add_resource_button">Agregar Recurso</string>
+    <string name="view_resources_button">Ver Recursos</string>
+    <string name="logout_button">Cerrar Sesión</string>
+    <string name="title_hint">Título</string>
+    <string name="description_hint">Descripción</string>
+
+    <string name="type_hint">Tipo (ej. Libro, Video)</string>
+    <string name="link_hint">Enlace</string>
+    <string name="image_hint">URL de imagen</string>
+    <string name="save_resource_button">Guardar Recurso</string>
+
+    <string name="edit_resource_button">Guardar Cambios</string>
+    <string name="delete_resource_button">Eliminar Recurso</string>
+    <string name="view_resource">Ver Recurso</string>
+    <string name="edit_resource">Editar Recurso</string>
+
+</resources>

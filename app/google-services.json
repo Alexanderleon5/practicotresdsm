@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34308290319",
+    "project_id": "practicotresdms",
+    "storage_bucket": "practicotresdms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34308290319:android:a5bb79cc32024965e6307a",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.practicotresdsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31kZf4r29n6ZsrbMSK0jlph76mAeNI44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
